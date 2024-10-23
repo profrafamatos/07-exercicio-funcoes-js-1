@@ -4,7 +4,9 @@
 */
 
 /**** Escreva o código abaixo 👇******/
-
+function saudar(){
+  console.log("Olá Mundo!");
+};
 
 /**** Escreva o código acima ☝️******/
 
